@@ -48,25 +48,15 @@ experience:
         
         
         
-  - title: Research Assistant
+  - title: Master Student
     company: ETH Zurich
     company_url: ''
     location: Zurich
     date_start: '2015-12-01'
     date_end: '2016-08-31'
-    description: Scientific Software Developer, Chair of Risk, Safety, and Uncertainty Quantification
+    description: Composite Material
 
-  - title: (MSc thesis writing)
-    company: ETH Zurich
-    date_start: '2014-12-01'
-    date_end: '2015-08-01'
-    description: Shape optimization with Boundary Elements
-  
-  - title: Full-Stack Software Engineer
-    company: Credit Suisse
-    date_start: '2014-07-01'
-    date_end: '2014-12-01'
-    description: Implemented from scratch in Javascript and Python internal web-based tools for time series inspection, implemented a R-to-C++ interface for an option pricer.
+
 
 design:
   columns: '2'
