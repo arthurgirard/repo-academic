@@ -30,7 +30,7 @@ education:
     year: 2021 
   - course: MSc C
     institution: ETH Zurich
-    year: 2015
+    year: 2019
   - course: BSc
     institution: EPFL
     year: 2012
@@ -74,7 +74,7 @@ design:
 highlight_name: true
 ---
 
-I am a PHD.
+I am a PhD student.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
