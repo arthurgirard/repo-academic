@@ -32,13 +32,7 @@ experience:
     date_end: '2021-11-30'
     description: |2-
         
-        Chair of Structural Mechanics and Monitoring.
-        Research topics:
-        
-        * Generative Models for UQ in engineering 
-        * Graph Neural Networks
-        * Wind turbine and wind farm simulations 
-        
+
         
         
   - title: Master Student
